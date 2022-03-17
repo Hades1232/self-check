@@ -1,0 +1,10 @@
+{
+  "name": "이름을 적어주세요 (홍길동)",
+  "birthday": "생일을 적어주세요 (990111)",
+  "city": "지역을 적어주세요 ex (ㅇㅇ특별시)",
+  "school": "학교를 적어주세요 (ㅇㅇ고등학교)",
+  "password": "비밀번호를 적어주세요 (1234)",
+  "checkRAT": null,
+  "computerPerformance": 0.5,
+  "pictureRoute": "%userprofile%/Pictures" 
+}
