@@ -3,8 +3,19 @@
 
 ## 사용 방법
 
-[Json 파일](https://github.com/Hades1232/self-check/blob/master/info.json)에서 몇가지 항목들을 바꿔줘야 합니다.
+## ChromeDriver
+</hr>
 
+현재 GitHub에 있는 ChromeDriver는 99.0.4844.51 버젼을 지원하며, 자신의 크롬 버젼(chrome://settings/help)을 확인하신 후 자신의 크롬 버젼과 맞는 [Chrome Driver](https://chromedriver.chromium.org/downloads)를 사용하시기 바랍니다.
+
+
+
+
+
+## Json
+</hr>
+
+[Json 파일](https://github.com/Hades1232/self-check/blob/master/info.json)에서 몇가지 항목들을 바꿔줘야 합니다.
 
 (* : 필수 수정 항목)
 
@@ -60,3 +71,5 @@
 
 Copyright © 2022 [Hades](https://github.com/Hades1232).
 This project is Apache License 2.0 licensed.
+
+
