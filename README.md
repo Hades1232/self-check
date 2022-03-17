@@ -3,7 +3,7 @@
 
 ## 사용 방법
 
-## ChromeDriver
+### ChromeDriver
 </hr>
 
 현재 GitHub에 있는 ChromeDriver는 99.0.4844.51 버전을 지원하며, 자신의 크롬 버전(chrome://settings/help)을 확인하신 후 자신의 크롬 버전과 맞는 [Chrome Driver](https://chromedriver.chromium.org/downloads)를 사용하시기 바랍니다.
@@ -12,7 +12,7 @@
 
 
 
-## Json
+### Json
 </hr>
 
 [Json 파일](https://github.com/Hades1232/self-check/blob/master/info.json)에서 몇가지 항목들을 바꿔줘야 합니다.
