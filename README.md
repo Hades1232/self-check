@@ -5,8 +5,7 @@
 
 ### ChromeDriver
 </hr>
-
-현재 GitHub에 있는 ChromeDriver는 101.0.4951.15 버전을 지원하며, 자신의 크롬 버전(chrome://settings/help)을 확인하신 후 자신의 크롬 버전과 맞는 [Chrome Driver](https://chromedriver.chromium.org/downloads)를 사용하시기 바랍니다.
+자신의 크롬 버전(chrome://settings/help)을 확인하신 후 자신의 크롬 버전과 맞는 [Chrome Driver](https://chromedriver.chromium.org/downloads)를 사용하시기 바랍니다.
 
 
 
@@ -16,6 +15,8 @@
 </hr>
 
 [Json 파일](https://github.com/Hades1232/self-check/blob/master/info.json)에서 몇가지 항목들을 바꿔줘야 합니다.
+
+<!--
 
 (* : 필수 수정 항목)
 
@@ -42,7 +43,9 @@
 "pictureRoute" : 자가진단이 끝난 후 결과 값 (사진)을 저장하는 경로입니다. 
 (기본 값은 현재 폴더이며 수정을 권해드리지 않습니다.)
 ```
- 
+
+--->
+
 <details>
 <summary>지원하는 모든 지역 이름 보기</summary>
 <p>지원하는 지역 이름은 다음과 같습니다:
@@ -68,10 +71,10 @@
 </details>
 
 
-
+<!--
 ## 라이센스
 
 Copyright © 2022 [Hades](https://github.com/Hades1232).
 This project is Apache License 2.0 licensed.
-
+-->
 
