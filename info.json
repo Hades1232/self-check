@@ -4,7 +4,7 @@
   "city": "지역을 적어주세요 ex (ㅇㅇ특별시)",
   "school": "학교를 적어주세요 (ㅇㅇ고등학교)",
   "password": "비밀번호를 적어주세요 (1234)",
-  "checkRAT": null,
+  "checkRAT": null, 
   "computerPerformance": 1,
   "pictureRoute": "" 
 }
