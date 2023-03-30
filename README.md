@@ -4,11 +4,8 @@
 ## 사용 방법
 
 ### ChromeDriver
-</hr>
+
 자신의 크롬 버전(chrome://settings/help)을 확인하신 후 자신의 크롬 버전과 맞는 [Chrome Driver](https://chromedriver.chromium.org/downloads)를 사용하시기 바랍니다.
-
-
-
 
 
 ### Json
@@ -44,7 +41,7 @@
 (기본 값은 현재 폴더이며 수정을 권해드리지 않습니다.)
 ```
 
---->
+-->
 
 <details>
 <summary>지원하는 모든 지역 이름 보기</summary>
