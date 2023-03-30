@@ -5,6 +5,6 @@
   "school": "학교를 적어주세요 (ㅇㅇ고등학교)",
   "password": "비밀번호를 적어주세요 (1234)",
   "checkRAT": null,
-  "computerPerformance": 0.5,
+  "computerPerformance": 1,
   "pictureRoute": "" 
 }
